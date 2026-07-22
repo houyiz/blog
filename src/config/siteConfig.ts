@@ -6,22 +6,23 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Firefly",
+	title: "Archer",
 
 	// 站点副标题
-	subtitle: "Markdown 文章",
+	subtitle: "C++ / AI Agent 学习记录",
 
 	// 站点 URL
 	site_url: "https://firefly.cuteleaf.cn",
 
 	// 站点描述
-	description: "一个专注于 Markdown 内容的简洁个人博客。",
+	description: "Archer 的个人博客，记录 C++ 开发与 AI Agent 学习过程。",
 
 	// 站点关键词
 	keywords: [
-		"Markdown",
+		"C++",
+		"AI Agent",
+		"学习记录",
 		"博客",
-		"教程",
 	],
 
 	// 主题色
@@ -73,7 +74,7 @@ export const siteConfig: SiteConfig = {
 			alt: "🍀",
 		},
 		// 导航栏标题
-		title: "Firefly",
+		title: "Archer",
 		// 全宽导航栏，导航栏是否占满屏幕宽度
 		widthFull: false,
 		// 导航菜单对齐方式，left：左对齐，center：居中
